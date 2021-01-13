@@ -1,1 +1,1 @@
-# Otomat_Yaklasimi
+# Burada Otomat_Yaklasimi diyagramları yer alıyor
